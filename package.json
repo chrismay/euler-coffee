@@ -1,0 +1,11 @@
+{
+  "name": "euler",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "./node_modules/.bin/nodeunit test"
+  },
+  "dependencies": {
+    "coffee-script": "~1.6.2",
+    "nodeunit": "~0.8"
+  }
+}
